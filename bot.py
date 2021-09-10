@@ -18,4 +18,4 @@ async def on_ready():
   print("봇 이름:",client.user.name,"봇 아이디:",client.user.id,"봇 버전:",discord.__version__)
 
 
-client.run(os.environ['token'])
+client.run(os.environ['ODg1NjkxODIyOTU1OTY2NTI0.YTquyQ.Ec6NO9jHMjJzJzgdsmhbMp47oes'])
